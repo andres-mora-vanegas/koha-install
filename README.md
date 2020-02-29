@@ -3,6 +3,8 @@
 ## this is the link of the documentation
 https://wiki.koha-community.org/wiki/Debian
 
+![alt text](https://www.w3schools.com/howto/img_snow.jpg)
+
 ### get the repo
 ```sh
 sudo wget -q -O- https://debian.koha-community.org/koha/gpg.asc | sudo apt-key add -
