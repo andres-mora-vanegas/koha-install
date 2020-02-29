@@ -3,7 +3,7 @@
 ## this is the link of the documentation
 https://wiki.koha-community.org/wiki/Debian
 
-![alt text](https://www.w3schools.com/howto/img_snow.jpg)
+![alt text](koha.jpg?raw=true)
 
 ### get the repo
 ```sh
