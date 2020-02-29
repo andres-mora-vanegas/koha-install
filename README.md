@@ -88,3 +88,7 @@ sudo service apache2 restart
 ```
 
 * enter to http://localhost:8084 and config koha, inside of config only need to select next, next, next, the language, super admin config account and password, next, next and finish.
+
+# how to use images in readme files
+
+https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
